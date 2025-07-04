@@ -1,6 +1,6 @@
 Sundown Studio Clone
 
-A fully responsive clone of the award-winning **Sundown Studio** website, built for practice and learning modern frontend web development workflows.
+A clone of the award-winning **Sundown Studio** website, built for practice and learning modern frontend web development workflows.
 
 🚀 Features
 
