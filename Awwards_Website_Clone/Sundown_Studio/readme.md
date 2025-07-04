@@ -9,6 +9,11 @@ A clone of the award-winning **Sundown Studio** website, built for practice and 
 - HTML, CSS and JavaScript
 - Structured for easy deployment on Vercel
 
+📸 Screenshot
+
+![Screenshot 2025-07-04 112641](https://github.com/user-attachments/assets/38e91a3c-e47f-45eb-8714-045b88193e3f)
+
+
 🛠️ Tech Stack
 
 - HTML5
