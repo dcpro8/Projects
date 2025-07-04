@@ -7,9 +7,12 @@ A **responsive, dynamic ecommerce book store** built using **HTML, CSS, JavaScri
 - 📖 **Dynamic Book Display**:
   - Books are fetched from the database dynamically.
   - Display books with images, titles, authors, and prices.
+    
 - 🛒 **Add to Cart Functionality**.
+  
 - 💻 **Responsive Design**:
   - Mobile, tablet, and desktop compatible.
+    
 - 🗄️ **Admin Panel** (if implemented):
   - Add, update, delete book listings easily.
 
